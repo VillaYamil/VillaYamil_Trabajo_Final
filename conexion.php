@@ -2,7 +2,7 @@
 $host = 'localhost'; // O la dirección de tu servidor
 $dbname = 'tp_asistencias_v4';
 $username = 'root';
-$password = '';
+$password = 'yamil';
 
 try {
     // Crear una conexión PDO
